@@ -20,7 +20,7 @@ jobs:
       uses: actions/setup-java@v2
       with:
         java-version: '11'
-        distribution: 'adobt'
+        distribution: 'zulu'
     - name: Build Eureka Naming Server Docker Image
       working-directory: ./naming-server
       run: mvn spring-boot:build-image
