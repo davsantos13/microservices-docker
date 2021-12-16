@@ -1,1 +1,0 @@
-[![Continuos Integration with Github](https://github.com/davsantos13/microservices-docker/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/davsantos13/microservices-docker/actions/workflows/maven-publish.yml)
